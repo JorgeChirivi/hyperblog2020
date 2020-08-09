@@ -16,3 +16,5 @@ no entiendo nada de lo que esta pasando
 agregamos una nueva hoja con html y estilos
 
 lo vamos a lograr
+
+mañana seguiremos aprendiendo
