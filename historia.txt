@@ -12,3 +12,5 @@ mañana es lunes
 hoy es domingo
 
 no entiendo nada de lo que esta pasando
+
+agregamos una nueva hoja con html y estilos
